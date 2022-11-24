@@ -126,7 +126,7 @@ The following steps will guide you through adding a Web Application Firewall (WA
 These steps will demonstrate various aspects of the configuration.
 
 +----------------------------------------------------------------------------------------------+
-| 1. Continuing in the **Web Application Firewall** section, click on the                        |
+| 1. Continuing in the **Web Application Firewall** section, click on the                      |
 |                                                                                              |
 |    **Web Application Firewall (WAF)** and select **Enable**.                                 |
 +----------------------------------------------------------------------------------------------+
@@ -248,7 +248,7 @@ review the generated event data to make additional configuration changes.
 +----------------------------------------------------------------------------------------------+
 | 1. Open another tab in your browser (Chrome shown), navigate to the newly configured Load    |
 |                                                                                              |
-|    Balancer configuration: **http://<namespace>-b.lab-sec.f5demos.com**, to confirm it is      |
+|    Balancer configuration: **http://<namespace>-b.lab-sec.f5demos.com**, to confirm it is    |
 |                                                                                              |
 |    functional.                                                                               |
 |                                                                                              |

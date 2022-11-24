@@ -54,7 +54,7 @@ This lab will begin back in the F5 Distributed Cloud Console.
 +----------------------------------------------------------------------------------------------+
 | 8. Open a terminal window or DOS prompt on your respective client and issue the following    |
 |                                                                                              |
-|    **curl** command: *curl -v http://<namespace>-b.lab-sec.f5demos.com*.                        |
+|    **curl** command: *curl -v http://<namespace>-b.lab-sec.f5demos.com*.                     |
 |                                                                                              |
 | 9. Observe the **User Agent** and response content.                                          |
 |                                                                                              |
@@ -99,7 +99,7 @@ implementation.
 +----------------------------------------------------------------------------------------------+
 | 1. Open another tab in your browser (Chrome shown), navigate to your application/Load        |
 |                                                                                              |
-|    Balancer configuration: **http://<namespace>-b.lab-sec.f5demos.com**.                       |
+|    Balancer configuration: **http://<namespace>-b.lab-sec.f5demos.com**.                     |
 |                                                                                              |
 | 2. Enable developer tools (Chrome shown (use F12)) and click on the **Network** tab.         |
 |                                                                                              |
